@@ -1,5 +1,5 @@
 # genome
 
 ## This repository GRCh37 human genome version
-## running command of merge file
+## command to combine files
 `cat genome.fa.* > genome.fa
