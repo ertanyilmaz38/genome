@@ -4,4 +4,3 @@
 ## command to combine files
 `cat genome.fa.* > genome.fa`
 
-> cat genome.fa.* > genome.fa
